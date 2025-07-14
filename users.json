@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Dharsan",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "company": { "name": "OpenAI" },
+    "address": { "city": "Chennai" }
+  },
+  {
+    "id": 2,
+    "name": "Akshaya",
+    "email": "jane@example.com",
+    "phone": "987-654-3210",
+    "company": { "name": "TechCorp" },
+    "address": { "city": "Bangalore" }
+  }
+]
